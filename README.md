@@ -1,5 +1,4 @@
 # LeetCode
----
-## LeetCode Algorithm
+## [LeetCode Algorithm](https://leetcode.com/problemset/algorithms/)
 | id | Title | Solution |
 |----| ----- | -------- |
