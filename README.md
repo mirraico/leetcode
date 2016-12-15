@@ -14,5 +14,5 @@
 |11|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JAVA](./integertoRoman/IntegertoRoman.java) | 
 |12|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JAVA](./romantoInteger/RomantoInteger.java) | 
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JAVA](./longestCommonPrefix/LongestCommonPrefix.java) | 
-|15|[3Sum](https://leetcode.com/problems/3sum/) | [JAVA](./3Sum/ThreeSum.java) | 快排nlgn，枚举一个数再维护两个指针遍历一共O(n^2)，再处理一些重复答案的细节
-|15|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [JAVA](./3SumClosest/ThreeSumClosest.java) | 和上道题思路相同
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [JAVA](./3Sum/ThreeSum.java) | 快排nlgn，枚举一个数再维护前后两个指针遍历一共O(n^2)，再处理一些重复答案的细节
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [JAVA](./3SumClosest/ThreeSumClosest.java) | 和上道题思路相同
