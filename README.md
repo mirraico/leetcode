@@ -5,7 +5,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./twoSum/twoSum.cpp) | 
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JAVA](./addTwoNumbers/AddTwoNumbers.java) | 
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JAVA](./longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java) | 维护前后两个指针
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JAVA](./longestPalindromicSubstring/LongestPalindromicSubstring.java) | dp做O(N^2)，Manacher算法可以做到O(N)
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JAVA](./longestPalindromicSubstring/LongestPalindromicSubstring.java) | dp做O(n^2)，Manacher算法可以做到O(n)
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [JAVA](./zigZagConversion/ZigZagConversion.java) | 
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JAVA](./reverseInteger/ReverseInteger.java) | 神TM样例还越界了，最后居然上了trycatch
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [JAVA](./stringtoInteger/StringtoInteger.java) | 
@@ -14,3 +14,4 @@
 |11|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [JAVA](./integertoRoman/IntegertoRoman.java) | 
 |12|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JAVA](./romantoInteger/RomantoInteger.java) | 
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JAVA](./longestCommonPrefix/LongestCommonPrefix.java) | 
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [JAVA](./3Sum/ThreeSum.java) | 快排nlgn，枚举一个数再维护两个指针遍历一共O(n^2)，再处理一些重复答案的细节
