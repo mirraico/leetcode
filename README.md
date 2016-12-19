@@ -22,3 +22,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JAVA](./validParentheses/ValidParentheses.java) | 
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JAVA](./mergeTwoSortedLists/MergeTwoSortedLists.java) | 递归从尾部开始
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JAVA](./generateParentheses/GenerateParentheses.java) | 顺手测了下sb还是比string快多了
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [JAVA](./swapNodesinPairs/SwapNodesinPairs.java) | 
