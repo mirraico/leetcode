@@ -28,3 +28,4 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JAVA](./implementstrStr/ImplementstrStr.java) | KMP
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JAVA](./divideTwoIntegers/DivideTwoIntegers.java) | O(logn)实现除法
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [JAVA](./nextPermutation/NextPermutation.java) | 根据全序列的定义模拟
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [JAVA](./searchforaRange/SearchforaRange.java) | 左右二分查找
