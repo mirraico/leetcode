@@ -32,5 +32,5 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JAVA](./searchInsertPosition/SearchInsertPosition.java) | 
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [JAVA](./validSudoku/ValidSudoku.java) | 用二维数组来标记TF
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [JAVA](./countandSay/CountandSay.java) | 
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [JAVA](./combinationSum/CombinationSum.java) | 
-
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [JAVA](./combinationSum/CombinationSum.java) | dfs
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [JAVA](./combinationSumII/CombinationSumII.java) | 
