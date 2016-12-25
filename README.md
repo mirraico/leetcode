@@ -36,3 +36,4 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [JAVA](./combinationSumII/CombinationSumII.java) | 
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JAVA](./multiplyStrings/MultiplyStrings.java) | 大数相乘的逻辑，没处理好逻辑WA了好多发
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JAVA](./permutations/Permutations.java) | dfs不好处理已经用过的数，用数字对换做比较方便
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [JAVA](./permutationsII/PermutationsII.java) | 没想通重复的原因，在46的基础上加了个答案判重，效率极低，哪天智商高点的时候再来想想
