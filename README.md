@@ -34,6 +34,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [JAVA](./countandSay/CountandSay.java) | 
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/) | [JAVA](./combinationSum/CombinationSum.java) | dfs
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [JAVA](./combinationSumII/CombinationSumII.java) | 
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JAVA](./multiplyStrings/MultiplyStrings.java) | 大数相乘的逻辑，没处理好逻辑WA了好多发
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [JAVA](./multiplyStrings/MultiplyStrings.java) | 大数相乘的逻辑，没处理好逻辑WA了好多发，Karatsuba可以做到O(n^1.58)
 |46|[Permutations](https://leetcode.com/problems/permutations/) | [JAVA](./permutations/Permutations.java) | dfs不好处理已经用过的数，用数字对换做比较方便
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [JAVA](./permutationsII/PermutationsII.java) | 没想通重复的原因，在46的基础上加了个答案判重，效率极低，哪天智商高点的时候再来想想
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [JAVA](./permutationsII-dfs/PermutationsII.java) | 不用对换了，上dfs了，重复数字必须从前往后搜索
