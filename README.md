@@ -39,3 +39,4 @@
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [JAVA](./permutationsII/PermutationsII.java) | 没想通重复的原因，在46的基础上加了个答案判重，效率极低，哪天智商高点的时候再来想想
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [JAVA](./permutationsII-dfs/PermutationsII.java) | 不用对换了，上dfs了，重复数字必须从前往后搜索
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JAVA](./rotateImage/RotateImage.java) | 
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [JAVA](./groupAnagrams/GroupAnagrams.java) | HashMap的使用、遍历；String、List的排序
