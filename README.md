@@ -43,3 +43,4 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JAVA](./pow(x, n)/Pow.java) | 先写了理论上也是二分的超时了，原因改天再想，换了种思路二分递归
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JAVA](./maximumSubarray/MaximumSubarray.java) | O(n)最大子数组
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JAVA](./spiralMatrix/SpiralMatrix.java) | 模拟
+|55|[Jump Game](https://leetcode.com/problems/jump-game/) | [JAVA](./jumpGame/JumpGame.java) | 
