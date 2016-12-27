@@ -51,3 +51,4 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [JAVA](./uniquePaths/UniquePaths.java) | dp
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [JAVA](./uniquePathsII/UniquePathsII.java) | dp
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [JAVA](./minimumPathSum/MinimumPathSum.java) | dp三连
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [JAVA](./plusOne/PlusOne.java) | 
