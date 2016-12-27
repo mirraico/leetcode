@@ -48,3 +48,4 @@
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [JAVA](./spiralMatrixII/SpiralMatrixII.java) | 
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [JAVA](./permutationSequence/PermutationSequence.java) | 神TM时间超过了99%的提交，写的有点难懂，大概就是取(n-i)!来判断第i位是什么
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [JAVA](./rotateList/RotateList.java) | 
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [JAVA](./uniquePaths/UniquePaths.java) | dp
