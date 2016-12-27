@@ -53,3 +53,4 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [JAVA](./minimumPathSum/MinimumPathSum.java) | dp三连
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JAVA](./plusOne/PlusOne.java) | 
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [JAVA](./addBinary/AddBinary.java) | 
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JAVA](./sqrt(x)/Sqrt.java) | 
