@@ -46,4 +46,5 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [JAVA](./jumpGame/JumpGame.java) | 
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JAVA](./lengthofLastWord/LengthofLastWord.java) | 
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [JAVA](./spiralMatrixII/SpiralMatrixII.java) | 
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [JAVA](./permutationSequence/PermutationSequence.java) | 时间超过了99%的提交，写的有点难懂，大概就是取(n-i)!来判断第i位是什么
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [JAVA](./permutationSequence/PermutationSequence.java) | 神TM时间超过了99%的提交，写的有点难懂，大概就是取(n-i)!来判断第i位是什么
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [JAVA](./rotateList/RotateList.java) | 
