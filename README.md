@@ -56,3 +56,4 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JAVA](./sqrt(x)/Sqrt.java) | 
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JAVA](./climbingStairs/ClimbingStairs.java) | dp
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JAVA](./simplifyPath/SimplifyPath.java) | 
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JAVA](./setMatrixZeroes/SetMatrixZeroes.java) | 
