@@ -55,3 +55,4 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [JAVA](./addBinary/AddBinary.java) | 
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [JAVA](./sqrt(x)/Sqrt.java) | 
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JAVA](./climbingStairs/ClimbingStairs.java) | dp
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JAVA](./simplifyPath/SimplifyPath.java) | 
