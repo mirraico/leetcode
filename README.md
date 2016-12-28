@@ -57,3 +57,4 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [JAVA](./climbingStairs/ClimbingStairs.java) | dp
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/) | [JAVA](./simplifyPath/SimplifyPath.java) | 
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [JAVA](./setMatrixZeroes/SetMatrixZeroes.java) | 
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JAVA](./searcha2DMatrix/Searcha2DMatrix.java) | 标准二分
