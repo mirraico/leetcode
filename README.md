@@ -61,3 +61,4 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JAVA](./sortColors/SortColors.java) | 
 |77|[Combinations](https://leetcode.com/problems/combinations/) | [JAVA](./combinations/Combinations.java) | 
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [JAVA](./subsets/Subsets.java) | 
+|79|[Word Search](https://leetcode.com/problems/word-search/) | [JAVA](./wordSearch/WordSearch.java) | 
