@@ -60,3 +60,4 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [JAVA](./searcha2DMatrix/Searcha2DMatrix.java) | 标准二分
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [JAVA](./sortColors/SortColors.java) | 
 |77|[Combinations](https://leetcode.com/problems/combinations/) | [JAVA](./combinations/Combinations.java) | 
+|78|[Subsets](https://leetcode.com/problems/subsets/) | [JAVA](./subsets/Subsets.java) | 
