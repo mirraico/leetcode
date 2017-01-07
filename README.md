@@ -64,3 +64,4 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/) | [JAVA](./wordSearch/WordSearch.java) | 
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JAVA](./removeDuplicatesfromSortedArrayII/RemoveDuplicatesfromSortedArrayII.java) | 
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JAVA](./searchinRotatedSortedArray/SearchinRotatedSortedArray.java) | 二分，逻辑有点乱，自己都不知道怎么过的
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [JAVA](./searchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.java) | 上一道题的加强版，逻辑理清了二分还是很简单的
