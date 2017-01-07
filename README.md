@@ -65,3 +65,4 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [JAVA](./removeDuplicatesfromSortedArrayII/RemoveDuplicatesfromSortedArrayII.java) | 
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [JAVA](./searchinRotatedSortedArray/SearchinRotatedSortedArray.java) | 二分，逻辑有点乱，自己都不知道怎么过的
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [JAVA](./searchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.java) | 上一道题的加强版，逻辑理清了二分还是很简单的
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [JAVA](./removeDuplicatesfromSortedListII/RemoveDuplicatesfromSortedListII.java) | 做了补头不补头两个版本，这种涉及头部变化的最好补头，不然逻辑很乱
