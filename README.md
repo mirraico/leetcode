@@ -67,4 +67,5 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [JAVA](./searchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.java) | 上一道题的加强版，逻辑理清了二分还是很简单的
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [JAVA](./removeDuplicatesfromSortedListII/RemoveDuplicatesfromSortedListII.java) | 做了补头不补头两个版本，这种涉及头部变化的最好补头，不然逻辑很乱
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JAVA](./removeDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java) | 上一道题的弱化版，最直观的就是头部不会变化了，这种就不用补头，而且特简单
-|86|[Partition List](https://leetcode.com/problems/partition-list/) | [JAVA](./partitionList/PartitionList.java) | 现在想想只要不重新申请一个链表出来，申请个头部、几个指针什么的是非常合理的，而且会让问题很简单，没有必要非要在原链表上进行直接操作
+|86|[Partition List](https://leetcode.com/problems/partition-list/) | [JAVA](./partitionList/PartitionList.java) | 现在想想只要不重新申请一个链表出来，申请个头部、几个指针什么的还是合理的，而且会让问题很简单，没有必要非要在原链表上进行直接操作
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JAVA](./mergeSortedArray/MergeSortedArray.java) | 从后往前避免覆盖
