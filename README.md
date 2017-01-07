@@ -70,3 +70,4 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/) | [JAVA](./partitionList/PartitionList.java) | 现在想想只要不重新申请一个链表出来，申请个头部、几个指针什么的还是合理的，而且会让问题很简单，没有必要非要在原链表上进行直接操作
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JAVA](./mergeSortedArray/MergeSortedArray.java) | 从后往前避免覆盖
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [JAVA](./grayCode/GrayCode.java) | 
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [JAVA](./subsetsII/SubsetsII.java) | 78上加一行
