@@ -71,3 +71,4 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [JAVA](./mergeSortedArray/MergeSortedArray.java) | 从后往前避免覆盖
 |89|[Gray Code](https://leetcode.com/problems/gray-code/) | [JAVA](./grayCode/GrayCode.java) | 
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [JAVA](./subsetsII/SubsetsII.java) | 78上加一行
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JAVA](./decodeWays/DecodeWays.java) | dp
