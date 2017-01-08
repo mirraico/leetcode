@@ -74,3 +74,4 @@
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [JAVA](./decodeWays/DecodeWays.java) | dp
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [JAVA](./reverseLinkedListII/ReverseLinkedListII.java) | 三个指针翻转
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JAVA](./restoreIPAddresses/RestoreIPAddresses.java) | 
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JAVA](./binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | 标准中序遍历
