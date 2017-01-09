@@ -76,3 +76,4 @@
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [JAVA](./restoreIPAddresses/RestoreIPAddresses.java) | 
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [JAVA](./binaryTreeInorderTraversal/BinaryTreeInorderTraversal.java) | 标准中序遍历
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [JAVA](./uniqueBinarySearchTreesII/UniqueBinarySearchTreesII.java) | 二叉搜索树的生成，递归有点绕，回头再做一遍（而且做的其实不严谨，这里面的下层节点都用的一个引用，这些生成的搜索树都没有分开）
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [JAVA](./uniqueBinarySearchTrees/UniqueBinarySearchTrees.java) | 95的逻辑，dp
