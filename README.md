@@ -78,3 +78,4 @@
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [JAVA](./uniqueBinarySearchTreesII/UniqueBinarySearchTreesII.java) | 二叉搜索树的生成，递归有点绕，回头再做一遍（而且做的其实不严谨，这里面的下层节点都用的一个引用，这些生成的搜索树都没有分开）
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [JAVA](./uniqueBinarySearchTrees/UniqueBinarySearchTrees.java) | 95的逻辑，dp
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [JAVA](./validateBinarySearchTree/ValidateBinarySearchTree.java) | BST的定义是左子树的所有节点都要比根节点小，右同，因此用min、max对子树进行界限规定，使用Integer可取null值表示不受限
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [JAVA](./validateBinarySearchTree-inOrder/ValidateBinarySearchTree.java) | BST的中序遍历是递增数列，以此判断，效率不如上面的做法
