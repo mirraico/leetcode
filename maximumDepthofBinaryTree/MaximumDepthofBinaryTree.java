@@ -9,21 +9,18 @@ public class MaximumDepthofBinaryTree {
 		if(root == null) return ans;
 		LinkedList<TreeNode> queue = new LinkedList<>();
 		queue.addLast(root);
-		int thisNum = 1, nextNum = 0;
 		while(!queue.isEmpty()) {
 			LinkedList<Integer> tmpAns = new LinkedList<>();
-			while((thisNum--) != 0) {
+			int levelNum = queue.size();
+			while((levelNum--) != 0) {
 				TreeNode tn = queue.removeFirst();
 				if(tn.left != null) {
 					queue.addLast(tn.left);
-					nextNum++;
 				}
 				if(tn.right != null) {
 					queue.addLast(tn.right);
-					nextNum++;
 				}
 			}
-			thisNum = nextNum; nextNum = 0;
 			ans++;
 		}
 		return ans;
