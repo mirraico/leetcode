@@ -85,3 +85,4 @@
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [JAVA](./binaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.java) | bfs，往头部添加元素用LinkedList
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JAVA](./maximumDepthofBinaryTree/MaximumDepthofBinaryTree.java) | bfs
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JAVA](./maximumDepthofBinaryTree-dfs/MaximumDepthofBinaryTree.java) | dfs
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [JAVA](./constructBinaryTreefromPreorderandInorderTraversal/ConstructBinaryTreefromPreorderandInorderTraversal.java) | 前序中序构造树
