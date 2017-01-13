@@ -83,3 +83,4 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [JAVA](./symmetricTree/SymmetricTree.java) | 100改一行
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [JAVA](./binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) | bfs
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [JAVA](./binaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.java) | bfs，往头部添加元素用LinkedList
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [JAVA](./maximumDepthofBinaryTree/MaximumDepthofBinaryTree.java) | bfs
