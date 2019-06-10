@@ -93,4 +93,5 @@
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [JAVA](./convertSortedListtoBinarySearchTree/ConvertSortedListtoBinarySearchTree.java) | 快慢指针+二分O(nlogn)超时了，转数组后108解O(n)即可
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JAVA](./mergeIntervals/MergeIntervals.java) |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [JAVA](./balancedBinaryTree/BalancedBinaryTree.java) |
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree) |
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.java) |
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [JAVA](./pathSum/PathSum.java)
