@@ -40,7 +40,7 @@
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/) | [JAVA](./permutationsII-dfs/PermutationsII.java) | 不用对换了，上dfs了，重复数字必须从前往后搜索
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [JAVA](./rotateImage/RotateImage.java) | 
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/) | [JAVA](./groupAnagrams/GroupAnagrams.java) | HashMap的使用、遍历；String、List的排序
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JAVA](./pow(x, n)/Pow.java) | 先写了理论上也是二分的超时了，原因改天再想，换了种思路二分递归
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [JAVA](./pow\(x, n\)/Pow.java) | 先写了理论上也是二分的超时了，原因改天再想，换了种思路二分递归
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JAVA](./maximumSubarray/MaximumSubarray.java) | O(n)最大子数组
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [JAVA](./spiralMatrix/SpiralMatrix.java) | 模拟
 |55|[Jump Game](https://leetcode.com/problems/jump-game/) | [JAVA](./jumpGame/JumpGame.java) | 
@@ -94,4 +94,6 @@
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [JAVA](./mergeIntervals/MergeIntervals.java) |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [JAVA](./balancedBinaryTree/BalancedBinaryTree.java) |
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./minimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.java) |
-|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [JAVA](./pathSum/PathSum.java)
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [JAVA](./pathSum/PathSum.java) |
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [JAVA](./pathSumII/PathSumII.java) |
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [JAVA](./flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java) | 
