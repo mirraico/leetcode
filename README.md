@@ -97,3 +97,4 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [JAVA](./pathSum/PathSum.java) |
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [JAVA](./pathSumII/PathSumII.java) |
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [JAVA](./flattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.java) | 
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [JAVA](./populatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.java) | bfs
